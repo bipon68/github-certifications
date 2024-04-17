@@ -36,12 +36,6 @@
 - [ ] 03 - Identify the basic formatting syntax (headings, links, task lists, comments, etc.)
 - [ ] 04 - Explain where to find and use slash commands
 
-**GitHub Markdown**
-- [ ] 01 - Identify the text formatting toolbar on issue and pull request comments
-- [ ] 02 - Describe Markdown
-- [ ] 03 - Identify the basic formatting syntax (headings, links, task lists, comments, etc.)
-- [ ] 04 - Explain where to find and use slash commands
-
 **GitHub Desktop**
 - [ ] 01 - Explain the difference between GitHub Desktop and github.com
 - [ ] 02 - Describe the available features with GitHub Desktop
@@ -189,5 +183,7 @@
 - [ ] 06 - Describe when to use pull request templates
 
 ### Reference
+- [GitHub Foundations - Microsoft](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - [GitHub Certifications](https://resources.github.com/learn/certifications/)
-- [GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+- [GitHub Pages](https://docs.github.com/en/pages/quickstart)
+- [Wiki Sample](https://github.com/netblue30/firejail/wiki)
